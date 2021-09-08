@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @burakunkun
+- 👋 Hi, I’m @juniorcoder
 - 👀 I’m interested in Front-end projects
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📗 I'm 2. year computer science student
